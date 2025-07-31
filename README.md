@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gaur_jain21" target="blank"><img src="https://img.shields.io/twitter/follow/gaur_jain21?logo=twitter&style=for-the-badge" alt="gaur_jain21" /></a> </p>
 
-- 🔭 I’m currently working on [Social Media App](https://github.com/gaur-j/Social-Media)
+- 🔭 I’m recently completed [AI-Powered-Gemini-ChatBot](https://github.com/gaur-j/AI-Powered-Gemini-ChatBot)
 
 - 🌱 I’m currently learning **Angular**
 
